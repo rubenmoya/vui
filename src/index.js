@@ -31,8 +31,8 @@ function createWindow() {
     if (isReady) {
       const [_all, port] = READY_REGEX.exec(message)
 
-      window.loadURL(`http://localhost:${port}/project/select`)
-      window.show()
+      mainWindow.loadURL(`http://localhost:${port}/project/select`)
+      mainWindow.show()
     }
   })
 
