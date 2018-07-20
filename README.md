@@ -1,6 +1,8 @@
 # VUI
 > Run your Vue CLI UI as a native application
 
+![VUI](https://github.com/rubenmoya/VUI/blob/master/images/VUI.png)
+
 ### Getting started
 First you'll need to have installed [Vue CLI](https://cli.vuejs.org/):
 
