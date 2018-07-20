@@ -22,4 +22,4 @@ Released under the [MIT](https://github.com/rubenmoya/VUI/blob/master/LICENSE.md
 
 Authored and maintained by Rubén Moya with help from [contributors](https://github.com/rubenmoya/VUI/contributors).
 
-> [rubenmoya.com](http://rubenmoya.com) · GitHub [@rubenmoya](https://github.com/rubenmoya) · Twitter [@rubenmoya_](https://twitter.com/rubenmoya)
+> [rubenmoya.com](http://rubenmoya.com) · GitHub [@rubenmoya](https://github.com/rubenmoya) · Twitter [@rubenmoya_](https://twitter.com/rubenmoya_)
