@@ -1,7 +1,7 @@
 {
   "name": "vui",
   "productName": "VUI",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Run your Vue CLI UI as like a native application",
   "main": "src/index.js",
   "scripts": {
