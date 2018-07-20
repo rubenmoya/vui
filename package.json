@@ -2,18 +2,18 @@
   "name": "vui",
   "productName": "VUI",
   "version": "1.0.0",
-  "description": "",
+  "description": "Run your Vue CLI UI as like a native application",
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "electron .",
-    "package:mac": "electron-packager . --platform=darwin --arch=x64 --icon=src/assets/icons/mac/icon.icns --prune=true --out=release-builds --overwrite",
+    "package:mac": "electron-packager . --platform=darwin --arch=x64 --icon=src/assets/icons/mac/app.icns --prune=true --out=release-builds --overwrite",
     "package:linux": "electron-packager . --platform=linux --prune=true --out=release-builds --overwrite",
     "package": "GENERATE_SOURCEMAP=false npm run package:mac && npm run package:linux"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": ["Vue", "GUI", "Electron", "Vue CLI", "Vue GUI"],
+  "author": "Rubén Moya Rodríguez <rmoyarodriguez@gmail.com>",
+  "license": "MIT",
   "devDependencies": {
     "electron": "~2.0.5",
     "electron-packager": "~12.1.0"
